@@ -6,10 +6,19 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 10:42:25 +0200</lastBuildDate>
     
 	<atom:link href="https://rymain.github.io/efr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-09-01</title>
+      <link>https://rymain.github.io/efr/map/2019-08-01/</link>
+      <pubDate>Thu, 01 Aug 2019 10:42:25 +0200</pubDate>
+      
+      <guid>https://rymain.github.io/efr/map/2019-08-01/</guid>
+      <description>Clean up You&amp;rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&amp;rsquo;t used, delete it.</description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Universal</title>
+    <link>https://rymain.github.io/efr/map/</link>
+    <description>Recent content in Maps on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 10:42:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://rymain.github.io/efr/map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019-09-01</title>
+      <link>https://rymain.github.io/efr/map/2019-08-01/</link>
+      <pubDate>Thu, 01 Aug 2019 10:42:25 +0200</pubDate>
+      
+      <guid>https://rymain.github.io/efr/map/2019-08-01/</guid>
+      <description>Clean up You&amp;rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&amp;rsquo;t used, delete it.</description>
+    </item>
+    
+  </channel>
+</rss>
